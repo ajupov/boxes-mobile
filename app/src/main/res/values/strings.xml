@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Boxes</string>
+    <string name="new_game_string">New game</string>
+    <string name="continue_string">Continue</string>
+    <string name="instruction_string">Instruction</string>
+    <string name="exit_string">Exit</string>
+</resources>
